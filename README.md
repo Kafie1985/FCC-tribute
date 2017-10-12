@@ -15,7 +15,8 @@
     <div class="content">
         <div class="">
             <header class="header">
-                <h1>BestSongintheworld<br>(TRIBUTE)</h1>
+                <h1>BestSongintheworld</h1>
+                <h1>(TRIBUTE)</h1>
                 <p>This is a tribute to <strong>Jack Blacks song Tribute</strong></p>
             </header>
             <h3 class="">
