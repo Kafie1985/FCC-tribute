@@ -46,14 +46,14 @@
 
     </div>
     <footer class="  ">
-        <div class="class="footer-text"">
+        <div class="footer-text">
             <p class="footer-text">If you would like to reach me you can email me
                 <br>
                 <a class="footer-link" href="email:andrew@sitesbyandrew.me">Email</a>
             </p>
 
 
-            <pclass="footer-text">A sitesbyandrew website</p>
+            <p class="footer-text">A sitesbyandrew website</p>
         </div>
     </footer>
 
