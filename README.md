@@ -16,7 +16,7 @@
         <div class="">
             <header class="header">
                 <h1>BestSongintheworld</h1>
-                <h1>(TRIBUTE</h1>
+                <h1>(TRIBUTE)</h1>
                 <p>This is a tribute to <strong>Jack Blacks song Tribute</strong></p>
             </header>
             <h3 class="">
@@ -45,14 +45,12 @@
 
 
     </div>
-    <footer class="  ">
+    <footer>
         <div class="footer-text">
             <p class="footer-text">If you would like to reach me you can email me
                 <br>
                 <a class="footer-link" href="mailto:andrew@sitesbyandrew.me">Email</a>
             </p>
-
-
             <p class="footer-text">A sitesbyandrew website</p>
         </div>
     </footer>
