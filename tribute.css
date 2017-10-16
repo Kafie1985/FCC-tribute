@@ -48,6 +48,7 @@ button {
 }
 
 .flexContainer {
+    display: flex;
     flex-wrap: nowrap;
 
 }
