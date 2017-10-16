@@ -16,8 +16,8 @@
         <div class="">
             <header class="header">
                 <div class="flexContainer">
-                    <h1 class "flexItem" >BestSongintheworld</h1>
-                    <h1 class "flexItem">(TRIBUTE)</h1>
+                    <h1 class="flexI=tem" >BestSongintheworld</h1>
+                    <h1 class="flexItem">(TRIBUTE)</h1>
                     <p>This is a tribute to <strong>Jack Blacks song Tribute</strong></p>
                 </div>
             </header>
